@@ -8,7 +8,7 @@ import MySQLdb
 class MyHandler(xml.sax.ContentHandler):
     def __init__(self):
         xml.sax.ContentHandler.__init__(self)
-        self.db = MySQLdb.connect(host="localhost", user="root", passwd="trowel", db="registerdb2011")
+        self.db = MySQLdb.connect(host="localhost", user="root", passwd="", db="registerdb2011")
         self.cursor = self.db.cursor()
         self.buffer = []
         self.ctrlId = 0
