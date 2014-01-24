@@ -1,0 +1,31 @@
+{
+  "name": "uk-data-controller-register",
+  "title": "The UK ICO register of data controllers",
+  "description": "...",
+  "version": "03.2013",
+  "keywords": ["Data Protection", "Privacy"],
+  "licenses": [{
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/",
+    "name": "Open Government License",
+    "version": "1.0",
+    "id": ""
+  }]
+  "sources": [{
+    "name": "Information Commissioner's office",
+    "web": "http://ico.org.uk/esdwebpages/search"
+  }],
+  "contributors":[ {
+    "name": "",
+    "email": "",
+    "web": ""
+  }],
+  "maintainers": [{
+  }],
+  "publishers": [{
+  }],
+  "resources": [
+    {
+    }
+  ],
+  "privacy-considerations": "The register will be provided under the Open Government License and may be reused provided that the reuse of any personal data complies with the requirements of the Data Protection Act and, in particular, that such data are not used in a way that is inconsistent with the purpose for which the register was created, for example not used for direct marketing, or in a way that otherwise adversely affects the privacy of individuals."
+}
