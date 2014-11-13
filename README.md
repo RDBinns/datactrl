@@ -22,6 +22,8 @@ The new format of the register has no differentiation between different _purpose
 
 _At present, the website shows both, as not every org registered after the change in how data was captured_
 
+The python script above was designed to parse the old XML version of the register and put it into an SQL database, and should work for copies dated prior to April 2013. There is another project to parse the new version of the register [here](https://github.com/themakshter/privacyMatters) (written in Java).
+
 ### Licensing?
 
 Both versions are under an Open Government License.
@@ -31,3 +33,5 @@ Both versions are under an Open Government License.
 The ICO state the following in the README file accompanying the DVD version of the register;
 
 _The register will be provided under the Open Government License and may be reused provided that the reuse of any personal data complies with the requirements of the Data Protection Act and, in particular, that such data are not used in a way that is inconsistent with the purpose for which the register was created, for example not used for direct marketing, or in a way that otherwise adversely affects the privacy of individuals._
+
+For further discussion about this data set and the license see my [data.gov.uk submission](http://data.gov.uk/data-request/ico-public-register-data-controllers) including Owen Boswarva's comment and link to a related request.
